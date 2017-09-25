@@ -57,6 +57,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * :soon: [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/) - Carlo Milanesi
+* [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
+* :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
+* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
 
 ## Videos
 
@@ -79,8 +82,8 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Podcasts
 
-* [Rusty radio](http://rustyrad.io/) - Alex Newman
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
+* [The Request for Explanation Podcast: A weekly discussion of Rust RFCs](https://request-for-explanation.github.io/podcast/) - [Manish Goregaokar][]
 
 ## Rust in practice
 
@@ -107,6 +110,8 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
+* :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
+* [Writing a Command Line Tool in Rust](http://mattgathu.github.io/writing-cli-app-rust/) - Matt Gathu
 
 ## Best Practices/Style Guides
 
@@ -161,7 +166,7 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 | Languages       | Links                                    |
 | --------------- | ---------------------------------------- |
 | C#              | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
-| C/C++           | <ul><li>[Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]</li><li>[On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li></ul> |
+| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]</li><li>[On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li></ul> |
 | Clojure         | <ul><li>[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes</li></ul> |
 | Go              | <ul><li>[A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html) - [Manish Goregaokar][]</li></ul> |
 | Java/Scala            | <ul><li>[Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]</li><li>[A light comparison between Rust and Java generics and type system features.](https://gist.github.com/Kimundi/8391398) - Marvin Löbel</li><li>[Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) - Lloyd </li></ul> |
@@ -309,7 +314,7 @@ Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rus
 
 You are looking for a job ? [Rust Jobs](http://rustjobs.rs/), [Awesome Rust Jobs](https://rust.libhunt.com/jobs)
 
-You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/) and [Planet Rust](http://www.planet-rust.com/)
+You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/) and [Planet Rust](http://www.planet-rust.com/)
 
 There is also [The Rust Community Blog](http://blog.community.rs/)
 
@@ -339,7 +344,7 @@ These are slides and materials from brick-and-mortar workshops about Rust.
 While they're unlikely to help a student learning independently, they may be
 of interest if you're running a workshop on Rust.
 
-* Workshop [slides and exercises](https://www.rust-tutorials.com/RustConf16/) from RustConf 2016.
+* Workshop [slides and exercises](http://www.rust-tutorials.com/RustConf17/) from RustConf 2017.
 * Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
 * Niko Matsakis's [ownership, borrowing, traits, structs, and threading tutorials](https://github.com/nikomatsakis/rust-tutorials-keynote), keynote files
 * Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
