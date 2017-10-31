@@ -116,7 +116,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 ## Best Practices/Style Guides
 
 * :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
-* :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
+* :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][] :white_check_mark:
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][] :white_check_mark:
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
